@@ -1,8 +1,8 @@
 Redmine::Plugin.register :redmine_multiple_target_versions do
   name 'Redmine Multiple Target Versions plugin'
-  author 'Author name'
-  description 'This is a plugin for Redmine'
+  author 'Igor Zubkov'
+  description 'Redmine Multiple Target Versions plugin'
   version '0.0.1'
-  url 'http://example.com/path/to/plugin'
-  author_url 'http://example.com/about'
+  url 'https://github.com/biow0lf/redmine_multiple_target_versions'
+  author_url 'https://github.com/biow0lf'
 end
